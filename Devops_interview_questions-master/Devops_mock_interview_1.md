@@ -4,9 +4,12 @@
 GIT
 ---------------------------------------------------------------------------------------------------------------------------------
 1. Why we need git? What makes git unique from other tools like SVN?
-2. Let's say i have maven repo cloned on to my local, did some changes and i have build the code now target folder will be generated. So now when i do git operations like git add, git commit or any other git operations target folder should not be considered, how would you achieve the same?
-3. difference between git pull and git fetch?
-4. How to clone specific branch in git?
+A. Git-- is a version control system that enables developers to track changes made to their codebase over time, collaborate with others, and revert to previous
+   versions if necessery.
+   SVN-- SVN (Subversion) is a centralized version control system that is commonly used to manage software development projects.
+3. Let's say i have maven repo cloned on to my local, did some changes and i have build the code now target folder will be generated. So now when i do git operations like git add, git commit or any other git operations target folder should not be considered, how would you achieve the same?
+4. difference between git pull and git fetch?
+5. How to clone specific branch in git?
 
 Maven
 --------------------------------------------------------------------------------------------------------------------------
